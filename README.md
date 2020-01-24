@@ -1,1 +1,2 @@
-# excel-challenge
+# Excel Challenge
+What makes Kickstart projects successful? Kickstart data was analyzed to find trends in what makes projects successful. Conditional formatting was used to identify the success of the associated campagin. A column was created for percent funded to show how much money a campaign made to reach its initial goal. A three color scale was apply conditionally to the percent funded column. Next average donation was calculated for each project. The column "Category and Sub-Category" was split into two seperate columns. A pivot tables were then created to further examine the data. Finally, a write up on the analysis is provided.
